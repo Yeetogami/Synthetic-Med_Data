@@ -13,5 +13,5 @@ This project generates synthetic medical datasets using the Synthetic Data Vault
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Yeetogami/Synthetic-Med_Data/blob/main/Untitled.ipynb>
    cd heart-disease-synthetic-data
